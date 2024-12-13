@@ -1,6 +1,6 @@
 ### **LogBook** 
 
-This logbook is part of Centria's Cyber ​​Security and Data Protection (IT00AK39-3002) course.
+This logbook is part of Cyber ​​Security and Data Protection (IT00AK39-3002) course.
 
 02.11.2024 2 hours Listened the first lecture. GitHub repo done and logbook link send.
 
