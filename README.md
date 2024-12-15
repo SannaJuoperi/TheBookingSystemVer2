@@ -42,7 +42,9 @@ This logbook is part of Cyber ​​Security and Data Protection (IT00AK39-3002)
 
 13.12.2024  2 hours I did Phase 4. I downloaded .zip and did all the addings with AI (terms.html, privacynotice.html and needed code parts to other codes). I answered the questions to consent_privacy.md file. 
 
-I have worked 61 hours.
+15.12.2024 2 hours I wrote the final phase.
+
+I have worked 63 hours.
 
 # The booking system
 1. Create a database
