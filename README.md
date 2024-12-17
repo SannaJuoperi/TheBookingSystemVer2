@@ -40,7 +40,7 @@ This logbook is part of Cyber ​​Security and Data Protection (IT00AK39-3002)
 
 12.12.2024 2 hours I forgot to answer the previous task "The 5 most important points -> Tell in each point", so I did that. I named file SecurityCheck.md. The task wasn't easy and I had to use AI and Google searches with it. I learned more about vulnerabilities and security with booking systems like this. During the whole process, I had looked at the website and the code, that something was rotten here, but now the answer came that there were problems.
 
-13.12.2024  2 hours I did Phase 4. I downloaded .zip and did all the addings with AI (terms.html, privacynotice.html and needed code parts to other codes). I answered the questions to consent_privacy.md file. 
+13.12.2024  2 hours I did Phase 4. I downloaded .zip and did all the addings with AI (terms.html, privacynotice.html and needed code parts to other codes). I answered the questions to consent_privacy.md file. I tested how well navigation between pages works and it was successful. The final phase has great screenshot of all pages. After changes, it is possible to check privacy policy before registering and logging in. After logging in, user can check her/his account page, terms of service and privacy policy. 
 
 15.12.2024 2 hours I wrote the final phase.
 
